@@ -1,6 +1,4 @@
-- 💖 Hi, I’m @femboy69
-- 🌱 I’m currently learning JS and Swift
-- 📫 itswagee#0256
+nothing to see here 👀
 
 <!---
 femboy69/femboy69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
